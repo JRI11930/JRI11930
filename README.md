@@ -10,7 +10,7 @@ I am currently working on a few projects such as demographic analysis in Mexico,
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/armando-islas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jarmando.rmz.19@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/armando-islas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jarmando.rmz.19@gmail.com) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JRI11930&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
