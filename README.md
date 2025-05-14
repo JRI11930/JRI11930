@@ -4,7 +4,19 @@
 </p>
 
 # 💫 About Me:
-I am currently working on a few projects such as demographic analysis in Mexico, football match outcome prediction, and cyber attack analysis.<br><br>I am currently learning data science from various sources such as university, e-learning platforms like CoderHouse, Neo4j Academy, or Google Skills Boost.
+👋 Hey there! I’m a Data Science enthusiast who’s been coding since day one. I dove headfirst into AI and data because there’s something magical about turning raw numbers into real-world insights.
+
+🚀 My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style.
+
+📊 Right now I’m working on:
+- Clickbait detection 💬
+- Football match outcome prediction ⚽
+- Monitoring school dropout rates 🕵️‍♂️
+
+🛠️ Tools: Python, SQL, Power BI, MLflow (in progress)
+🎓 Always learning: CoderHouse · Neo4j Academy · Google PM Course
+
+When I’m off the clock, you’ll find me at the gym, reading or writing books, jamming to music, or watching soccer. Let’s connect and turn data into impact!
 
 
 ## 🌐 Socials:
