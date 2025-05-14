@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! I'm Armando </h1>
 <p align="center">
-  <b>Data Scientist</b> | Social Impact  | Artifical Inteligence 🧠 | Decision Making 📊
+  <b>Data Scientist</b> | Vibe Coding  | Artificial Inteligence | Project Management 📊
 </p>
 
 # 💫 About Me:
